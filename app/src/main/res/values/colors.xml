@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FAFAFA</color>
+    <color name="colorPrimaryDark">#FF7F00</color>
+    <color name="appBg">#F4F4F4</color>
+    <color name="color_title">#5F5F5F</color>
+    <color name="color_detail">#666666</color>
+    <color name="color_detail_98">#98666666</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tv_register_dark">#FCCEC1</color>
+    <color name="background">#F4F4F4</color>
+    <color name="color_bbbbbb">#bbbbbb</color>
+    <color name="color_ADADAD">#ADADAD</color>
+    <color name="color_E4E4E4">#E4E4E4</color>
+    <color name="color_8F8F8F">#8F8F8F</color>
+    <color name="title_background_color">#DBDBDB</color>
+	 	<color name="login_txt">#959595</color>
+	  <color name="login_hint_txt">#D8D8D8</color>
+	  <color name="login_edit_color">#2E2E2E</color>
+
+    <color name="black">#000000</color>
+    <color name="pull_refresh_textview">#222</color>
+    <color name="gold">#666</color>
+    <color name="transparent">#00000000</color>
+    <color name="login_btn">#23AAEA</color>
+    <color name="btn_login_border">#E7E7E7</color>
+    <color name="text_light">#E1E1E1</color>
+    <color name="color_BFBFBF">#BFBFBF</color>
+    <color name="bg_progress">#81D1F7</color>
+    <color name="txt_address_view">#202020</color>
+    <color name="del_color">#EA5255</color>
+    <color name="money_in">#39AE57</color>
+    <color name="money_out">#F7555A</color>
+    <color name="color_count_prize">#EE4C46</color>
+    <color name="luck_color_bg">#FF7F00</color>
+    <color name="alert_title_color">#B16D32</color>
+	<color name="login_line_color">#F0EFF0</color>
+	<color name="get_code_color">#e13444</color>
+    <color name="color_FDD7D0">#FDD7D0</color>
+    <color name="color_ACACAC">#ACACAC</color>
+    <color name="color_fa384b">#fa384b</color>
+</resources>
